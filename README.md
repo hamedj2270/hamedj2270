@@ -15,8 +15,8 @@
 
 📫 چطور باهام تماس بگیری:  
 - Email: your_email@example.com  
-- Telegram: [@YourUsername](https://t.me/YourUsername)  
-- LinkedIn: [linkedin.com/in/hamedjafari](https://linkedin.com/in/hamedjafari)
+- Telegram: [@YourUsername](https://t.me/Hamed_dev0101)  
+- LinkedIn: [linkedin.com/in/hamedjafari](https://linkedin.com/in/hamed-jafari-1168991ba)
 
 ---
 
@@ -30,3 +30,5 @@
 
 ❤️ جمله‌ای که همیشه به خودم یادآوری می‌کنم:
 > "کد تمیز بنویس، مثل آدمی که قراره فردا بره مرخصی و یه نفر دیگه کدت رو بخونه!"
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamedjafari&theme=tokyonight)
