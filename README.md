@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">سلام، من حامد جعفری هستم 👋</h1>
+<h3 align="center">توسعه‌دهنده Django | عاشق یادگیری هوش مصنوعی | فریلنسر</h3>
 
-<!--
-**hamedj2270/hamedj2270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 الان دارم روی پروژه‌های زیر کار می‌کنم:  
+- 🎓 پلتفرم فریلنسری دانشجویی با Django  
+- 🤖 ربات تلگرام برای دانلود ویدیوهای یوتیوب  
+- 🛍️ سایت فروشگاهی Angelmoon.ir
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 در حال یادگیری عمیق‌تر:  
+- Docker & CI/CD  
+- Clean Code, Software Architecture  
+- Java & Spring Boot برای ورود به حوزه بانکی
+
+📫 چطور باهام تماس بگیری:  
+- Email: your_email@example.com  
+- Telegram: [@YourUsername](https://t.me/YourUsername)  
+- LinkedIn: [linkedin.com/in/hamedjafari](https://linkedin.com/in/hamedjafari)
+
+---
+
+📊 آمار گیت‌هاب من:
+![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedjafari&show_icons=true&theme=radical)
+
+📈 زبان‌هایی که بیشتر باهاشون کار کردم:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedjafari&layout=compact&theme=radical)
+
+---
+
+❤️ جمله‌ای که همیشه به خودم یادآوری می‌کنم:
+> "کد تمیز بنویس، مثل آدمی که قراره فردا بره مرخصی و یه نفر دیگه کدت رو بخونه!"
