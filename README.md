@@ -15,7 +15,8 @@
 
 📫 چطور باهام تماس بگیری:  
 - Email: hamedjafari2270@gmail.com  
-- Telegram: [@Hamed_dev0101](https://t.me/Hamed_dev0101)  
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hamed_dev0101)
+  
 - LinkedIn: [hamedjafari](https://linkedin.com/in/hamed-jafari-1168991ba)
 
 ---
