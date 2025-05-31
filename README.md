@@ -1,35 +1,54 @@
-<h1 align="center">سلام، من حامد جعفری هستم 👋</h1>
-<h3 align="center">توسعه‌دهنده Django | عاشق یادگیری هوش مصنوعی | فریلنسر</h3>
+<h1 align="center">سلام، من حامدم 👋</h1>
+
+<p align="center">
+  توسعه‌دهنده Django | عاشق یادگیری هوش مصنوعی 🤖 | فریلنسر 💻
+</p>
 
 ---
 
-🔭 الان دارم روی پروژه‌های زیر کار می‌کنم:  
-- 🎓 پلتفرم فریلنسری دانشجویی با Django  
-- 🤖 ربات تلگرام برای دانلود ویدیوهای یوتیوب  
-- 🛍️ سایت فروشگاهی Angelmoon.ir
+## 🧑‍💻 درباره من
 
-🌱 در حال یادگیری عمیق‌تر:  
-- Docker & CI/CD  
-- Clean Code, Software Architecture  
-- Java & Spring Boot برای ورود به حوزه بانکی
-
-📫 چطور باهام تماس بگیری:  
-- Email: hamedjafari2270@gmail.com  
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hamed_dev0101)
-  
-- LinkedIn: [hamedjafari](https://linkedin.com/in/hamed-jafari-1168991ba)
+- 🎓 دانشجوی مهندسی کامپیوتر
+- 💼 فعال در حوزه طراحی و توسعه وب با تمرکز بر Django
+- 🛠 علاقمند به پروژه‌های اپن‌سورس و یادگیری تکنولوژی‌های جدید
+- 🚀 در حال یادگیری Docker، GraphQL و FastAPI
+- 👨‍💻 هدف: ساخت سیستم‌های مفید و کاربردی برای کسب‌وکارها و افراد
 
 ---
 
-📊 آمار گیت‌هاب من:
-![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedjafari&show_icons=true&theme=radical)
+## 🔗 راه‌های ارتباطی
 
-📈 زبان‌هایی که بیشتر باهاشون کار کردم:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedjafari&layout=compact&theme=radical)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Hamed_dev0101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamedj2270/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamedj2270@gmail.com)
 
 ---
 
-❤️ جمله‌ای که همیشه به خودم یادآوری می‌کنم:
-> "کد تمیز بنویس، مثل آدمی که قراره فردا بره مرخصی و یه نفر دیگه کدت رو بخونه!"
+## 🌟 پروژه‌های برجسته
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamedjafari&theme=tokyonight)
+- 🚀 [پلتفرم فریلنسری دانشجویی](https://github.com/hamedj2270/student-freelance-platform) — یک سیستم کامل برای ارتباط دانشجویان و کارفرمایان
+- 🤖 [ربات تلگرام دانلود ویدیو یوتیوب](https://github.com/hamedj2270/youtube-video-downloader-bot) — دریافت لینک و ارسال ویدیو با کیفیت فشرده‌شده
+- 🛍 [فروشگاه اینترنتی Angelmoon](https://github.com/hamedj2270/angelmoon-store) — فروشگاه آرایشی با طراحی زیبا و امکانات حرفه‌ای
+
+---
+
+## 🛠 مهارت‌ها
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📊 وضعیت گیت‌هاب من
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamedj2270&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamedj2270&layout=compact" />
+</p>
